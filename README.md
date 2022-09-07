@@ -8,3 +8,5 @@ and all the features based on that.
 
 At the end we have to build such a model that can do prediction, mainly on the behaviour of that particular cutomer. What can be
 sentiments of that particular customer.
+
+It is a type of classification algorithm.
