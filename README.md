@@ -1,4 +1,4 @@
-# Score-Prediction-Based-on-Customer-s-Text
+# Score-Prediction-Based-on-Customer-s-Text : Amazon Food Review Sentiment Analysis
 
 The user is buying some product.
 There is a column called score and we have to predict for different customer's sentiments. This judgement is based on the column
