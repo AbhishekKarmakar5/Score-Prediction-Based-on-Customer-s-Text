@@ -6,7 +6,7 @@ called Text.
 Also we have to find what is the upvoting of the that particular customer depending upon what is his sentiment, what does he feels
 and all the features based on that.
 
-At the end we have to build such a model that can do prediction, mainly on the behaviour of that particular cutomer. What can be
+At the end we have to build such a model that can do prediction, mainly on the behaviour of that particular customer. What can be
 sentiments of that particular customer.
 
 It is a type of classification algorithm.
